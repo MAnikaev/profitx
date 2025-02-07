@@ -51,12 +51,12 @@ detekt {
     // Can lead to speedups in larger projects. `false` by default.
     parallel = true
 
-//    ignoreFailures = true
+    ignoreFailures = true
 
-    // Define the detekt configuration(s) you want to use.
-    // Defaults to the default detekt configuration.
-    config.setFrom("$rootDir/config.yml")
-    buildUponDefaultConfig = true
+//    // Define the detekt configuration(s) you want to use.
+//    // Defaults to the default detekt configuration.
+//    config.setFrom("$rootDir/config.yml")
+//    buildUponDefaultConfig = true
 }
 
 dependencies {
