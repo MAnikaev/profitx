@@ -1,6 +1,9 @@
 plugins {
-    alias(libs.plugins.android.application)
+    alias(libs.plugins.android.library)
     alias(libs.plugins.kotlin.android)
+    alias(libs.plugins.kotlin.compose)
+    alias(libs.plugins.detekt)
+    alias(libs.plugins.kotlin.serialization)
 }
 
 android {
@@ -8,11 +11,11 @@ android {
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.itis.feature"
+//        applicationId = "com.itis.feature"
         minSdk = 26
         targetSdk = 35
-        versionCode = 1
-        versionName = "1.0"
+//        versionCode = 1
+//        versionName = "1.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -33,6 +36,27 @@ android {
     kotlinOptions {
         jvmTarget = "11"
     }
+}
+
+detekt {
+    // Version of detekt that will be used. When unspecified the latest detekt
+    // version found will be used. Override to stay on the same version.
+    toolVersion = "1.23.7"
+
+    // The directories where detekt looks for source files.
+    // Defaults to `files("src/main/java", "src/test/java", "src/main/kotlin", "src/test/kotlin")`.
+    source.setFrom("src/main/java", "src/main/kotlin")
+
+    // Builds the AST in parallel. Rules are always executed in parallel.
+    // Can lead to speedups in larger projects. `false` by default.
+    parallel = true
+
+//    ignoreFailures = true
+
+    // Define the detekt configuration(s) you want to use.
+    // Defaults to the default detekt configuration.
+    config.setFrom("$rootDir/config.yml")
+    buildUponDefaultConfig = true
 }
 
 dependencies {
