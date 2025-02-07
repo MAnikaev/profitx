@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.itis.core-mergeDebugResources-72:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\anika\\.gradle\\caches\\8.10.2\\transforms\\f9e1d9d110a4ac81707598fc86042e48\\transformed\\appcompat-1.7.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

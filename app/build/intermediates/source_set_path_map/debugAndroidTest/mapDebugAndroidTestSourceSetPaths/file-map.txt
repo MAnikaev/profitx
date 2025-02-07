@@ -1,0 +1,6 @@
+com.itis.profitx.test.app-tracing-1.2.0-0 C:\Users\anika\.gradle\caches\8.10.2\transforms\752098276a5bf9131d6020813481645a\transformed\tracing-1.2.0\res
+com.itis.profitx.test.app-core-1.6.1-1 C:\Users\anika\.gradle\caches\8.10.2\transforms\9907bcf64473b9d073ed5dda35c0ebe2\transformed\core-1.6.1\res
+com.itis.profitx.test.app-androidTest-2 D:\Android Projects\app\build\generated\res\resValues\androidTest\debug
+com.itis.profitx.test.app-mergeDebugAndroidTestResources-3 D:\Android Projects\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.itis.profitx.test.app-mergeDebugAndroidTestResources-4 D:\Android Projects\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.itis.profitx.test.app-debugAndroidTest-5 D:\Android Projects\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

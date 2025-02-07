@@ -1,0 +1,77 @@
+com.itis.core-recyclerview-1.1.0-0 C:\Users\anika\.gradle\caches\8.10.2\transforms\01e4174e6caee6f2a4db5ad82d4e0dd5\transformed\recyclerview-1.1.0\res
+com.itis.core-savedstate-1.2.1-1 C:\Users\anika\.gradle\caches\8.10.2\transforms\06e8c62d5bb1074ac61513bac032e85f\transformed\savedstate-1.2.1\res
+com.itis.core-ui-tooling-data-release-2 C:\Users\anika\.gradle\caches\8.10.2\transforms\07d83fe8fe032bdb04e458b2c4681767\transformed\ui-tooling-data-release\res
+com.itis.core-lifecycle-runtime-compose-release-3 C:\Users\anika\.gradle\caches\8.10.2\transforms\15e0e795d2993c83df6899349e822c23\transformed\lifecycle-runtime-compose-release\res
+com.itis.core-lifecycle-viewmodel-ktx-2.8.3-4 C:\Users\anika\.gradle\caches\8.10.2\transforms\186e080f007568f227957be6a029eb1a\transformed\lifecycle-viewmodel-ktx-2.8.3\res
+com.itis.core-foundation-layout-release-5 C:\Users\anika\.gradle\caches\8.10.2\transforms\188d337e75a34ce5f44cb915a61e4a7f\transformed\foundation-layout-release\res
+com.itis.core-ui-unit-release-6 C:\Users\anika\.gradle\caches\8.10.2\transforms\18e379a2feb214605f8d79e5fa899b3d\transformed\ui-unit-release\res
+com.itis.core-runtime-release-7 C:\Users\anika\.gradle\caches\8.10.2\transforms\1a76a73e5e346fcbcbe15f89bced2552\transformed\runtime-release\res
+com.itis.core-core-runtime-2.2.0-8 C:\Users\anika\.gradle\caches\8.10.2\transforms\1c41c4a04d239c711e9727c0a893ffde\transformed\core-runtime-2.2.0\res
+com.itis.core-navigation-runtime-ktx-2.7.0-9 C:\Users\anika\.gradle\caches\8.10.2\transforms\225de331e513fd4e9e37aa0a80ce5ec9\transformed\navigation-runtime-ktx-2.7.0\res
+com.itis.core-lifecycle-runtime-ktx-release-10 C:\Users\anika\.gradle\caches\8.10.2\transforms\2441eb96df3d5d7e9778e5f36423f02d\transformed\lifecycle-runtime-ktx-release\res
+com.itis.core-ui-release-11 C:\Users\anika\.gradle\caches\8.10.2\transforms\2750df4a06208e19facc328ff34b5620\transformed\ui-release\res
+com.itis.core-lifecycle-viewmodel-compose-release-12 C:\Users\anika\.gradle\caches\8.10.2\transforms\2fa93d83b19cfc96378e1f7acc686147\transformed\lifecycle-viewmodel-compose-release\res
+com.itis.core-core-ktx-1.15.0-13 C:\Users\anika\.gradle\caches\8.10.2\transforms\2ff3940ca050ac0a3de09ac8b050438c\transformed\core-ktx-1.15.0\res
+com.itis.core-coordinatorlayout-1.1.0-14 C:\Users\anika\.gradle\caches\8.10.2\transforms\338bc9283c271cae562a395f20f4a077\transformed\coordinatorlayout-1.1.0\res
+com.itis.core-lifecycle-livedata-core-ktx-2.8.3-15 C:\Users\anika\.gradle\caches\8.10.2\transforms\3698b8ca1854fd560d1439f580940eec\transformed\lifecycle-livedata-core-ktx-2.8.3\res
+com.itis.core-emoji2-views-helper-1.3.0-16 C:\Users\anika\.gradle\caches\8.10.2\transforms\3883dcdda28db087255421ee232a92bf\transformed\emoji2-views-helper-1.3.0\res
+com.itis.core-navigation-compose-2.7.0-17 C:\Users\anika\.gradle\caches\8.10.2\transforms\3b8718a7eb6c9a217222536906f0e66c\transformed\navigation-compose-2.7.0\res
+com.itis.core-fragment-ktx-1.5.5-18 C:\Users\anika\.gradle\caches\8.10.2\transforms\4bf11e9e1c070ea942f5ed287c52eb91\transformed\fragment-ktx-1.5.5\res
+com.itis.core-window-core-release-19 C:\Users\anika\.gradle\caches\8.10.2\transforms\4f4aefa6afde43f328cbde7f06c53b7c\transformed\window-core-release\res
+com.itis.core-activity-ktx-1.9.3-20 C:\Users\anika\.gradle\caches\8.10.2\transforms\546457f0bfc7bedeace84dfa6dd9337a\transformed\activity-ktx-1.9.3\res
+com.itis.core-savedstate-ktx-1.2.1-21 C:\Users\anika\.gradle\caches\8.10.2\transforms\54b05ba6fd73472f9d4469ffb71370d5\transformed\savedstate-ktx-1.2.1\res
+com.itis.core-activity-compose-1.9.3-22 C:\Users\anika\.gradle\caches\8.10.2\transforms\551d6625c13f2c3abd6b76445778fc16\transformed\activity-compose-1.9.3\res
+com.itis.core-ui-util-release-23 C:\Users\anika\.gradle\caches\8.10.2\transforms\63d35ca8da6eb2c0c38e1d534b0945f9\transformed\ui-util-release\res
+com.itis.core-transition-1.5.0-24 C:\Users\anika\.gradle\caches\8.10.2\transforms\64fc7a2bfd18f258da78c221f787fdb6\transformed\transition-1.5.0\res
+com.itis.core-navigation-common-ktx-2.7.0-25 C:\Users\anika\.gradle\caches\8.10.2\transforms\68a8c42ba58e785e27c9357b59e3ab60\transformed\navigation-common-ktx-2.7.0\res
+com.itis.core-graphics-path-1.0.1-26 C:\Users\anika\.gradle\caches\8.10.2\transforms\6bae47d2107df50640602c643cbe78b0\transformed\graphics-path-1.0.1\res
+com.itis.core-emoji2-1.3.0-27 C:\Users\anika\.gradle\caches\8.10.2\transforms\6d7c181aaff89e883bdd36c6e5f613a7\transformed\emoji2-1.3.0\res
+com.itis.core-lifecycle-viewmodel-savedstate-2.8.3-28 C:\Users\anika\.gradle\caches\8.10.2\transforms\6f76aac18b9c3cb1f5fc04f179ee7a5c\transformed\lifecycle-viewmodel-savedstate-2.8.3\res
+com.itis.core-tracing-1.2.0-29 C:\Users\anika\.gradle\caches\8.10.2\transforms\752098276a5bf9131d6020813481645a\transformed\tracing-1.2.0\res
+com.itis.core-window-1.3.0-30 C:\Users\anika\.gradle\caches\8.10.2\transforms\7d04cf433292b87c1034cc2290cafb43\transformed\window-1.3.0\res
+com.itis.core-material-icons-extended-release-31 C:\Users\anika\.gradle\caches\8.10.2\transforms\84f0cb930077f98131dda6a654b1d23f\transformed\material-icons-extended-release\res
+com.itis.core-adaptive-release-32 C:\Users\anika\.gradle\caches\8.10.2\transforms\8bc8efe10bc4be4e17ba088cb0b9b651\transformed\adaptive-release\res
+com.itis.core-material3-window-size-class-release-33 C:\Users\anika\.gradle\caches\8.10.2\transforms\93eb77b3335680b3d3feca00971722c2\transformed\material3-window-size-class-release\res
+com.itis.core-fragment-1.5.5-34 C:\Users\anika\.gradle\caches\8.10.2\transforms\9b0b7f649a1add55895643da40c3ff2a\transformed\fragment-1.5.5\res
+com.itis.core-cardview-1.0.0-35 C:\Users\anika\.gradle\caches\8.10.2\transforms\9d3d8188ff41b5b55d45b9ff7c3f0744\transformed\cardview-1.0.0\res
+com.itis.core-ui-text-release-36 C:\Users\anika\.gradle\caches\8.10.2\transforms\a1400b66c214f2951f0e22351ca7b4e4\transformed\ui-text-release\res
+com.itis.core-lifecycle-livedata-core-2.8.3-37 C:\Users\anika\.gradle\caches\8.10.2\transforms\a22ac8e8a3147e97e561bd700361a9b9\transformed\lifecycle-livedata-core-2.8.3\res
+com.itis.core-ui-geometry-release-38 C:\Users\anika\.gradle\caches\8.10.2\transforms\a3d80a78b7a2c5c543791f23755f2988\transformed\ui-geometry-release\res
+com.itis.core-annotation-experimental-1.4.1-39 C:\Users\anika\.gradle\caches\8.10.2\transforms\a617184b5e5904d196672e67836366dc\transformed\annotation-experimental-1.4.1\res
+com.itis.core-animation-core-release-40 C:\Users\anika\.gradle\caches\8.10.2\transforms\a6a7a102b149fb9411eac0b0460af821\transformed\animation-core-release\res
+com.itis.core-viewpager2-1.0.0-41 C:\Users\anika\.gradle\caches\8.10.2\transforms\a961d3a4210410481f94b5cc475cfd56\transformed\viewpager2-1.0.0\res
+com.itis.core-customview-poolingcontainer-1.0.0-42 C:\Users\anika\.gradle\caches\8.10.2\transforms\aa85e99a5de3352794943bed17e7bd0b\transformed\customview-poolingcontainer-1.0.0\res
+com.itis.core-material-ripple-release-43 C:\Users\anika\.gradle\caches\8.10.2\transforms\ab4d15588d815dcacead35d6b3601efb\transformed\material-ripple-release\res
+com.itis.core-activity-1.9.3-44 C:\Users\anika\.gradle\caches\8.10.2\transforms\b1a084e9b1eece2cb8faee41fa34e156\transformed\activity-1.9.3\res
+com.itis.core-navigation-runtime-2.7.0-45 C:\Users\anika\.gradle\caches\8.10.2\transforms\b20fcf841668516aecad67b3ce9c0501\transformed\navigation-runtime-2.7.0\res
+com.itis.core-foundation-release-46 C:\Users\anika\.gradle\caches\8.10.2\transforms\b659a52e1db0cbb31d38b8ccd51be7b5\transformed\foundation-release\res
+com.itis.core-lifecycle-viewmodel-release-47 C:\Users\anika\.gradle\caches\8.10.2\transforms\bcff2dfa0946e2cc15b8ff7837e7487a\transformed\lifecycle-viewmodel-release\res
+com.itis.core-lifecycle-livedata-2.8.3-48 C:\Users\anika\.gradle\caches\8.10.2\transforms\befd97ae5dd62dbb40c17062fa894e79\transformed\lifecycle-livedata-2.8.3\res
+com.itis.core-core-1.0.0-49 C:\Users\anika\.gradle\caches\8.10.2\transforms\c0f0c0a6fcd61cf205c087ed121e1ff9\transformed\core-1.0.0\res
+com.itis.core-runtime-saveable-release-50 C:\Users\anika\.gradle\caches\8.10.2\transforms\c16d2abf6b41acac6c5286c7450ac585\transformed\runtime-saveable-release\res
+com.itis.core-profileinstaller-1.3.1-51 C:\Users\anika\.gradle\caches\8.10.2\transforms\c3889b798687fe19181e7ef1cabeaaf0\transformed\profileinstaller-1.3.1\res
+com.itis.core-drawerlayout-1.1.1-52 C:\Users\anika\.gradle\caches\8.10.2\transforms\c59e63abcc44f4868a2765571ba8814f\transformed\drawerlayout-1.1.1\res
+com.itis.core-material3-adaptive-navigation-suite-release-53 C:\Users\anika\.gradle\caches\8.10.2\transforms\c889dae2a576575bfbdb0546ca4492cd\transformed\material3-adaptive-navigation-suite-release\res
+com.itis.core-appcompat-resources-1.7.0-54 C:\Users\anika\.gradle\caches\8.10.2\transforms\cc183e4996fcdf55eaeb99650dbbc9ae\transformed\appcompat-resources-1.7.0\res
+com.itis.core-material-icons-core-release-55 C:\Users\anika\.gradle\caches\8.10.2\transforms\ccdf26b99b6e0d3adac9a7ae4bf9b05f\transformed\material-icons-core-release\res
+com.itis.core-material-release-56 C:\Users\anika\.gradle\caches\8.10.2\transforms\cdc5ae7beccbfbc41b914868cf653e1f\transformed\material-release\res
+com.itis.core-core-1.15.0-57 C:\Users\anika\.gradle\caches\8.10.2\transforms\ce43eedcf0d4005a357f1a9cac71cc95\transformed\core-1.15.0\res
+com.itis.core-navigation-common-2.7.0-58 C:\Users\anika\.gradle\caches\8.10.2\transforms\d25fd15bbcfb9176b3777a1be1905f0b\transformed\navigation-common-2.7.0\res
+com.itis.core-material3-release-59 C:\Users\anika\.gradle\caches\8.10.2\transforms\d5017961abfe4f9af33455826a9d0802\transformed\material3-release\res
+com.itis.core-constraintlayout-2.0.1-60 C:\Users\anika\.gradle\caches\8.10.2\transforms\d9b7734d6cd3534788e02bffa3df5866\transformed\constraintlayout-2.0.1\res
+com.itis.core-startup-runtime-1.1.1-61 C:\Users\anika\.gradle\caches\8.10.2\transforms\e5c624c023187acd7dfc846dd8302d8c\transformed\startup-runtime-1.1.1\res
+com.itis.core-ui-tooling-preview-release-62 C:\Users\anika\.gradle\caches\8.10.2\transforms\e8da887f12c4cd5acc3bd12cc8665266\transformed\ui-tooling-preview-release\res
+com.itis.core-ui-graphics-release-63 C:\Users\anika\.gradle\caches\8.10.2\transforms\ea5269a2c3176b02482320366b4bb879\transformed\ui-graphics-release\res
+com.itis.core-lifecycle-runtime-release-64 C:\Users\anika\.gradle\caches\8.10.2\transforms\eb4c1063713e96d311dd93fd854deec8\transformed\lifecycle-runtime-release\res
+com.itis.core-ui-tooling-release-65 C:\Users\anika\.gradle\caches\8.10.2\transforms\ecd1dfeeadf4667012c549269f988d56\transformed\ui-tooling-release\res
+com.itis.core-animation-release-66 C:\Users\anika\.gradle\caches\8.10.2\transforms\efb7d21209dfa8a5159e4d13567a39bd\transformed\animation-release\res
+com.itis.core-material-1.12.0-67 C:\Users\anika\.gradle\caches\8.10.2\transforms\f998bd23cd6753e30876c8ff8316985d\transformed\material-1.12.0\res
+com.itis.core-appcompat-1.7.0-68 C:\Users\anika\.gradle\caches\8.10.2\transforms\f9e1d9d110a4ac81707598fc86042e48\transformed\appcompat-1.7.0\res
+com.itis.core-lifecycle-process-2.8.3-69 C:\Users\anika\.gradle\caches\8.10.2\transforms\fa21273e51044843c4eca449f18e970a\transformed\lifecycle-process-2.8.3\res
+com.itis.core-pngs-70 D:\Android Projects\core\build\generated\res\pngs\debug
+com.itis.core-resValues-71 D:\Android Projects\core\build\generated\res\resValues\debug
+com.itis.core-packageDebugResources-72 D:\Android Projects\core\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.itis.core-packageDebugResources-73 D:\Android Projects\core\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.itis.core-debug-74 D:\Android Projects\core\build\intermediates\merged_res\debug\mergeDebugResources
+com.itis.core-debug-75 D:\Android Projects\core\src\debug\res
+com.itis.core-main-76 D:\Android Projects\core\src\main\res
