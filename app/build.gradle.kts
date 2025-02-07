@@ -59,6 +59,7 @@ detekt {
     // Define the detekt configuration(s) you want to use.
     // Defaults to the default detekt configuration.
     config.setFrom("$rootDir/config.yml")
+    buildUponDefaultConfig = true
 }
 
 dependencies {
