@@ -1,0 +1,18 @@
+formatting:
+  active: true
+  Indentation:
+    active: true
+  MaximumLineLength:
+    active: true
+    maxLineLength: 1200
+
+style:
+  ForbiddenComment:
+    active: true
+  MagicNumber:
+    active: false 
+
+complexity:
+  TooManyFunctions:
+    active: true
+    thresholdInFiles: 10
