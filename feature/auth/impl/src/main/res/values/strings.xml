@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">impl</string>
+    <string name="repeat_password_et_text">Повторите пароль</string>
+    <string name="password_et_text">Password</string>
+    <string name="register_btn_text">Зарегистрироваться</string>
+    <string name="already_have_account_btn_text">У меня уже есть аккаунт</string>
+    <string name="e_mail_et_label">E-mail</string>
+    <string name="email_et_placeholder">Почта</string>
+</resources>
