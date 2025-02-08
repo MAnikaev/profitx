@@ -75,7 +75,6 @@ fun AuthorizationScreen(
         Column(
             horizontalAlignment = Alignment.CenterHorizontally
         ) {
-            // Замените на Image, если у вас есть логотип в виде ресурса
             Text(
                 text = "ProfitX",
                 style = MaterialTheme.typography.bodyMedium,
@@ -145,10 +144,3 @@ fun AuthorizationScreen(
     }
 }
 
-//@Preview(showBackground = true)
-//@Composable
-//fun RegistrationScreenPreview() {
-//    MaterialTheme {
-//        AuthorizationScreen()
-//    }
-//}
