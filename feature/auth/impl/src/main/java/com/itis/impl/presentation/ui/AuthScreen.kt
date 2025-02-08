@@ -23,6 +23,7 @@ import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.input.KeyboardType
@@ -30,6 +31,8 @@ import androidx.compose.ui.text.input.PasswordVisualTransformation
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavController
+import com.google.firebase.analytics.FirebaseAnalytics
+import com.google.firebase.analytics.logEvent
 import com.itis.impl.R
 import com.itis.impl.presentation.model.AuthAction
 import com.itis.impl.presentation.model.AuthEvent
@@ -42,6 +45,7 @@ fun AuthorizationScreen(
     viewModel: AuthViewModel = koinViewModel()
 ) {
     val state = viewModel.uiState.collectAsState()
+    val context = LocalContext.current
 
     LaunchedEffect(Unit) {
         viewModel.actionsFlow.collectLatest { action ->
@@ -121,7 +125,13 @@ fun AuthorizationScreen(
             modifier = Modifier.fillMaxWidth()
         ) {
             Button(
-                onClick = { viewModel.obtainEvent(AuthEvent.LoginButtonClicked(email, password)) },
+                onClick = {
+                    viewModel.obtainEvent(AuthEvent.LoginButtonClicked(email, password))
+                    val firebaseAnalytics = FirebaseAnalytics.getInstance(context)
+                    firebaseAnalytics.logEvent(FirebaseAnalytics.Event.LOGIN) {
+                        param(FirebaseAnalytics.Param.ITEM_NAME, "Clicked Login Button")
+                    }
+                          },
                 modifier = Modifier
                     .fillMaxWidth()
                     .height(48.dp),

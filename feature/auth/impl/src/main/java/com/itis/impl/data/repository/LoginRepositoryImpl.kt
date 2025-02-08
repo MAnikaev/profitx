@@ -2,6 +2,9 @@ package com.itis.impl.data.repository
 
 import android.content.SharedPreferences
 import android.util.Log
+import com.google.firebase.analytics.FirebaseAnalytics
+import com.google.firebase.perf.FirebasePerformance
+import com.google.firebase.perf.metrics.Trace
 import com.itis.api.domain.repository.LoginRepository
 import com.itis.api.model.LoginModel
 import com.itis.core.Constants
@@ -14,14 +17,19 @@ class LoginRepositoryImpl(
     private val prefs: SharedPreferences
 ) : LoginRepository {
     override suspend fun login(model: LoginModel): Boolean {
+
+        val trace: Trace = FirebasePerformance.getInstance().newTrace("login_trace")
+        trace.start()
         val response = api.login(
             mapper.mapLoginModelToLoginRequest(model)
         )
+        trace.stop()
         if (!response.isNullOrEmpty() && response != "Wrong password" && response != "Wrong email") {
             prefs.edit()
                 .putString(Constants.JWT_PREFS_KEY, response)
                 .putString(Constants.EMAIL_PREFS_KEY, model.email)
                 .apply()
+
             return true
         } else {
             return false
