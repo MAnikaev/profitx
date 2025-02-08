@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "225780300023",
+    "project_id": "profitx-203a4",
+    "storage_bucket": "profitx-203a4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225780300023:android:644c30393c3e556549bbf2",
+        "android_client_info": {
+          "package_name": "com.itis.profitx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbFJ33x0pjhV1-PqEIqKe9Rjg-jBa8o9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

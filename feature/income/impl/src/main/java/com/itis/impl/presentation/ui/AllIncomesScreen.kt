@@ -101,7 +101,7 @@ fun IncomeScreen(
                                 setTransparentCircleAlpha(0)
                                 holeRadius = 70f
                                 transparentCircleRadius = 72f
-                                centerText = "2000p"
+                                centerText = incomes.sumOf { it.value }.toString() + "p"
                                 setCenterTextSize(22f)
                                 data = createPieData(incomes)
                             }

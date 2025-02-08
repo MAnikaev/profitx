@@ -1,6 +1,7 @@
 package com.itis.profitx
 
 import android.app.Application
+import com.google.firebase.FirebaseApp
 import com.itis.core.coreModule
 import com.itis.impl.analysisModule
 import com.itis.impl.authModule
@@ -14,6 +15,8 @@ import org.koin.core.context.startKoin
 class App : Application() {
     override fun onCreate() {
         super.onCreate()
+
+        FirebaseApp.initializeApp(this)
 
         startKoin {
             androidContext(this@App)

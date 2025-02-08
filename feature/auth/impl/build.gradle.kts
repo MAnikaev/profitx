@@ -60,6 +60,8 @@ dependencies {
     implementation(libs.androidx.material3.android)
     implementation(project(":core"))
     implementation(project(":feature:auth:api"))
+    implementation(libs.firebase.perf.ktx)
+    implementation(libs.play.services.measurement.api)
 
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)

@@ -3,6 +3,10 @@ plugins {
     alias(libs.plugins.kotlin.android)
     alias(libs.plugins.kotlin.compose)
     alias(libs.plugins.detekt)
+
+    alias(libs.plugins.firebase.crashlytics)
+    alias(libs.plugins.gms)
+    alias(libs.plugins.firebase.performance)
 }
 
 android {
@@ -94,7 +98,8 @@ dependencies {
     implementation(project(":feature:expenses:impl"))
     implementation(project(":feature:analysis:impl"))
     implementation(project(":core"))
-
+    implementation(libs.firebase.common.ktx)
+    implementation("androidx.startup:startup-runtime:1.2.0")
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
